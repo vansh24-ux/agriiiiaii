@@ -1,0 +1,10 @@
+__pycache__/
+*.db
+*.zip
+.env
+node_moudules/
+venv/
+.venv/
+.env
+__pycache__/
+*.pyc
